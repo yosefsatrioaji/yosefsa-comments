@@ -1,6 +1,4 @@
 {
-  "origins": [
-    "https://yosefsa.xyz",
-  ],
+  "origins": ["https://yosefsa.xyz"],
   "defaultCommentOrder": "newest"
 }
