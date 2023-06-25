@@ -1,6 +1,7 @@
 {
   "origins": [
     "https://yosefsa.xyz",
-    "https://yosefsa-2.vercel.app"],
+    "https://yosefsa-2.vercel.app"
+  ],
   "defaultCommentOrder": "newest"
 }
