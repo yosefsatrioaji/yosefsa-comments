@@ -1,5 +1,5 @@
 {
-  "origins": ["https://giscus.app"],
+  "origins": ["https://yosefsa.xyz"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
